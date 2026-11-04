@@ -1,27 +1,29 @@
-# Term-Project
-# Members
-Susana Zavala,
-Cristian Barbosa Chombo
+# ETHEREAL — Term Project
 
-ETHEREAL — Design System v1.0
+## Members
+- Susana Zavala
+- Cristian Barbosa Chombo
 
-Brand and interface reference
+---
 
-Token group	          Default
-Background	          #090A0F
-Surface	              #11131C
-Card	                #1C2030
-Primary	              #A78BFA
-Secondary	            #D8D5E5
-Text	                #F5F3FA
-Muted text	          #A3A3B5
-Heading font       	  Cormorant Garamond
-Body font	            Inter
-Container	            1280px
-Header	              80px
-Card radius	          18px
-Button radius	        6px
-Standard transition	  250ms
-Product columns	      4 desktop / 2 tablet
+## Design System v1.0
 
+*Brand and interface reference*
 
+| **Token** | **Value** |
+|---|---|
+| Background | `#090A0F` |
+| Surface | `#11131C` |
+| Card | `#1C2030` |
+| Primary | `#A78BFA` |
+| Secondary | `#D8D5E5` |
+| Text | `#F5F3FA` |
+| Muted Text | `#A3A3B5` |
+| Heading Font | Cormorant Garamond |
+| Body Font | Inter |
+| Container Width | `1280px` |
+| Header Height | `80px` |
+| Card Radius | `18px` |
+| Button Radius | `6px` |
+| Standard Transition | `250ms` |
+| Product Columns | 4 desktop / 2 tablet |
