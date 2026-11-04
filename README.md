@@ -1,4 +1,5 @@
 # Term-Project
-Susana Zavala
+# Members
+Susana Zavala,
 Cristian Barbosa Chombo
 
